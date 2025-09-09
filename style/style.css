@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+ 
+.card-main{
+    margin: 80px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 340px;
+    padding-right: 340px;
+    border: 2px solid #000;
+}
+ 
+.organiza{
+    display: flex;
+    flex-direction: row;
+}
+ 
+.btn-danger, .btn-warning{
+    margin-top: 30px;
+}
